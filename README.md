@@ -1,0 +1,1 @@
+Entity is a term from the Standard Generalized Markup Language (SGML), which refers to a reference to information that can be defined once and used throughout a document. The term "HTML Entity" is used as a synonym for a character reference — a pattern of characters that can represent another character in the HTML.
